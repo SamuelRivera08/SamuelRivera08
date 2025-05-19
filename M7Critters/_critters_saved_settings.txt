@@ -1,0 +1,13 @@
+#CSE 142 Critters saved settings
+#Fri Mar 21 15:20:12 PDT 2025
+Lion=true
+SamuelFartbuckle=true
+Baby=true
+Height=50
+Number\ of\ each\ critter=25
+Network\ features=true
+Samuel_Fartbuckle=true
+Bear=true
+Width=60
+Debug\ output=false
+Tiger=true

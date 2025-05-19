@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bear
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bear\ here.\r\n\r\n\ @author\ Samuel\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=grizzly
+comment1.target=Bear(boolean)
+comment2.params=
+comment2.target=boolean\ eat()
+comment2.text=\r\n\ @override\ always\ eats\ by\ always\ returning\ true\r\n
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment3.text=\r\n\ @\ override\ returns\ brown\ if\ grizzly,\ black\ otherwise\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ @\ overrode\ bear\ shows\ up\ as\ B\ on\ board\r\n
+numComments=5
